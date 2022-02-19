@@ -1,0 +1,8 @@
+build/
+venv/
+.pytest_cache/
+.DS_Store
+*.egg-info/
+*.pyc
+*.so
+*.c
